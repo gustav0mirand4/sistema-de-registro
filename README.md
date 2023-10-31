@@ -30,7 +30,7 @@ py -m pip install pysimplegui
 
 Tela de cadastro
 
-!!\[Alt text\](image.png)
+![Alt text](image.png)
 
 Lista de Usuários
 
